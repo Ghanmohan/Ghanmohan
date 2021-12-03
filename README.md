@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-[website]: https://ghanmohan.github.io/Portfolio1/
+[website]: https://ghanmohan.github.io/Portfolio_Website/
 [twitter]: https://twitter.com/Ghanmohan22
 [instagram]: https://www.instagram.com/padnhirha_bas/
 [linkedin]: https://www.linkedin.com/in/ghanmohan-dangi-a879041aa/
