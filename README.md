@@ -7,6 +7,12 @@
         <img src="https://github-profile-trophy.vercel.app/?username=sansyrox&column=7&theme=onedark"/>
     </p>
 </a>
+<a align="center" href="http://ghanmohandangi.me">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sansyrox&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansyrox&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+</a>
 
 ## I'm a Tech Nerd, Developer and Competitive Coder!!!
 - 🔭 I'm Currently Working on NOVUS,GO Lang, React and many more
